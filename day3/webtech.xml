@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students SYSTEM "students.dtd">
+<students>
+  <student>
+    <rollno>1</rollno>
+    <marks>80</marks>
+    <totalmarks>100</totalmarks>
+    <percentage>80%</percentage>
+  </student>
+  <student>
+    <rollno>2</rollno>
+    <marks>90</marks>
+    <totalmarks>100</totalmarks>
+    <percentage>90%</percentage>
+  </student>
+   <student>
+    <rollno>2</rollno>
+    <marks>90</marks>
+    <totalmarks>100</totalmarks>
+    <percentage>90%</percentage>
+  </student>  <student>
+    <rollno>2</rollno>
+    <marks>90</marks>
+    <totalmarks>100</totalmarks>
+    <percentage>90%</percentage>
+  </student>  <student>
+    <rollno>2</rollno>
+    <marks>90</marks>
+    <totalmarks>100</totalmarks>
+    <percentage>90%</percentage>
+  </student>
+</students>
